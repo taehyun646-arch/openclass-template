@@ -1,0 +1,16 @@
+{
+  "name": "school-open-class-app",
+  "version": "3.3.7",
+  "private": true,
+  "description": "Vercel과 Supabase로 운영하는 학교 수업공개·참관 관리 앱",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.4",
+    "exceljs": "4.4.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}

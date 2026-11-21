@@ -1,0 +1,10 @@
+name,email,subject_group,role,second_semester_target,exclusion_reason,active
+관리자,,교과 미분류,관리자,false,,true
+가상국어,,국어,일반교사,true,,true
+가상수학,,수학,일반교사,true,,true
+가상영어,,영어,일반교사,false,1학기 공개 완료,true
+가상과학,,과학,일반교사,true,,true
+가상사회,,사회,일반교사,true,,true
+가상체육,,체육,일반교사,false,1학기 공개 완료,true
+가상음악,,음악,일반교사,true,,true
+가상미술,,미술,일반교사,false,순회교사,true
